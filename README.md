@@ -1,9 +1,9 @@
-# API Rest with Go
-CRUD para produto.
+## API Rest with Go
+CRUD de produto.
 
 ### Tecnologia
-Golang 1.22
-Docker
+- Golang 1.22
+- Docker
 
 ### Como executar o projeto:
 
